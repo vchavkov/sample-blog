@@ -1,6 +1,10 @@
+# deployment
+host: 0.0.0.0
+port: 5000
+
 # Site wide configuration
 
-title:            Site Title
+title:            Sample Blog
 locale:           en_US
 url:
 
